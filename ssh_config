@@ -1,0 +1,4 @@
+Host ruic
+	Hostname login.engin.umich.edu
+	User richen
+	Compression yes
